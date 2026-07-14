@@ -1496,6 +1496,7 @@
                   "providers/inferrs",
                   "providers/inworld",
                   "providers/kilocode",
+                  "providers/llama-cpp-http",
                   "providers/litellm",
                   "providers/lmstudio",
                   "providers/longcat",
